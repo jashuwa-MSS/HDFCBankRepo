@@ -10,3 +10,5 @@ Adding more content for stash example in development branch.
 
 Adding first line in string.sh file in development branch in remote repository.
 
+Adding sixth line.
+
